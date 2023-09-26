@@ -10,8 +10,8 @@
 
 
 
-[Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thiagodesouzavieira&bg_color=0d1117&color=00BFFF&line=00FA9A&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagodesouzavieira&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thiagodesouzavieira&bg color=0d1117&color=00BFFF&line=00FA9A&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagodesouzavieira&bg color=0d1117&color=00BFFF&line=00FA9A&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagodesouzavieira&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Thiago de Souza github stats" /> 
